@@ -1,1 +1,1 @@
-lt solutiomns 
+lt solutions
